@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Jake
 
-I'm a CS student at Purdue University
+I'm currently a CS student studying at Purdue University.
 
 ### Languages & Tools
 
@@ -9,7 +9,7 @@ Java, Python, C++, C#, C, Unity, Git, OpenCV
 ### Interests
 
 - Algorithm Design
-- Optimizations
+- Optimization
 - Game Design
 - Physics Simulations
 
