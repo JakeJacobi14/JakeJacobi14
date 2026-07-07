@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Jake
 
-I'm currently a CS student studying at Purdue University.
+I'm currently a CS student at Purdue University.
 
 ### Languages & Tools
 
