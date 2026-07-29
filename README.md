@@ -4,7 +4,7 @@ I'm currently a CS student at Purdue University.
 
 ### Languages & Tools
 
-Java, Python, C++, C#, C, Unity, Git, OpenCV
+Java, Python, C++, C#, C, JavaScript, Unity, Git
 
 ### Interests
 
