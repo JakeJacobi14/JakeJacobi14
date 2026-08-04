@@ -15,6 +15,6 @@ Java, Python, C++, C#, C, JavaScript, Unity, Git
 
 ### Links
 
-- **LinkedIn:** [https://www.linkedin.com/in/Jake](www.linkedin.com/in/jakejacobi)
+- **LinkedIn:** [https://www.linkedin.com/in/jakejacobi](https://www.linkedin.com/in/jakejacobi)
 - **Email:** [jacobi7@purdue.edu](mailto:jacobi7@purdue.edu)
-- **Itch.io:** [https://jakejacobi.itch.io](jakejacobi.itch.io)
+- **Itch.io:** [https://jakejacobi.itch.io](https://jakejacobi.itch.io)
